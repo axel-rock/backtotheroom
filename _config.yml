@@ -2,8 +2,8 @@
 title: Escape Game
 email: querleuantoine@gmail.com
 description: Aventures d'un couple passionné d'escape games
-baseurl: '/escapegame' # the subpath of your site, e.g. /blog
-url: 'http://rock.bzh' # the base hostname & protocol for your site
+baseurl: '' # the subpath of your site, e.g. /blog
+url: 'http://rock.bzh/escapegame/' # the base hostname & protocol for your site
 # twitter_username: aspirethemes
 # github_username: aspirethemes
 
@@ -32,8 +32,8 @@ authors:
     name: Moilotou
     display_name: Moilotou
     bio: Moilotou, passionné d'escape games, à votre service.
-    gravatar: /images/moilotou.jpg
+    gravatar: images/moilotou.jpg
     email: querleuantoine@gmail.com
-    web: http://rock.bzh
+    web: http://rock.bzh/escapegame
     # twitter: aspirethemes
     # github: aspirethemes

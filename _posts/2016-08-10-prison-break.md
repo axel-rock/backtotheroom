@@ -5,7 +5,7 @@ title: Prison Break
 <!-- featured: true -->
 author: antoine
 tags: [test, paris, lille]
-image: '/images/posts/prison-break.jpg'
+image: 'images/posts/prison-break.jpg'
 
 review: 
  name: Prison Break | Team Break

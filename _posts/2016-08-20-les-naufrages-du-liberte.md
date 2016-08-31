@@ -5,7 +5,7 @@ title: Les Naufragés Du Liberté
 <!-- featured: true -->
 author: antoine
 tags: [test, paris]
-image: '/images/posts/les-naufrages-du-liberte.jpg'
+image: 'images/posts/les-naufrages-du-liberte.jpg'
 copyright: Tempête Sous Un Crâne
 
 review: 
