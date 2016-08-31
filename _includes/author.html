@@ -2,7 +2,7 @@
 
   {% if author.gravatar %}
   <figure class="author-image">
-    <div class="img" style="background-image: url({{ author.gravatar }})">
+    <div class="img" style="background-image: url({{ author.gravatar | prepend: site.baseurl }})">
       <span class="hidden">{{ author.display_name }}'s Picture</span>
     </div>
   </figure>
