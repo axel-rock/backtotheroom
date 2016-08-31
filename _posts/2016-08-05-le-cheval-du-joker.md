@@ -5,7 +5,7 @@ title: Le Cheval Du Joker
 <!-- featured: true -->
 author: antoine
 tags: [test, paris]
-image: 'images/posts/le-cheval-du-joker.jpg'
+image: '/images/posts/le-cheval-du-joker.jpg'
 
 review: 
  name: 60'escape | Le Cheval Du Joker

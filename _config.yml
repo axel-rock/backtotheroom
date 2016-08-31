@@ -3,7 +3,7 @@ title: Escape Game
 email: querleuantoine@gmail.com
 description: Aventures d'un couple passionné d'escape games
 baseurl: '' # the subpath of your site, e.g. /blog
-url: 'http://rock.bzh/escapegame/' # the base hostname & protocol for your site
+url: 'http://rock.bzh/escapegame' # the base hostname & protocol for your site
 # twitter_username: aspirethemes
 # github_username: aspirethemes
 
