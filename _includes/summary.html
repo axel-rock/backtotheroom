@@ -1,0 +1,57 @@
+<div class="box box--review">
+  <div class="box__body">
+
+    <h4 class="box__title">
+      {{ page.review.name }}
+    </h4>
+
+    {% if page.review.summary %}
+    <p class="box__text">{{ page.review.summary }}</p>
+    {% endif %}
+
+    {% if page.review.website %}
+    <div>
+      <a href="{{page.review.website}}" target="_blank">
+        <span data-icon="ei-link" data-size="s"></span>Site web
+      </a>
+    </div>
+    {% endif %}
+
+    {% if page.review.location %}
+    <div>
+      <!-- <a href="http://www.twitter.com/{{ author.twitter }}" target="_blank"> -->
+        <span data-icon="ei-location" data-size="s"></span>{{page.review.location}}
+      <!-- </a> -->
+    </div>
+    {% endif %}
+
+    {% if page.review.time %}
+    <div>
+        <span data-icon="ei-clock" data-size="s"></span>{{page.review.time}}
+        {% if page.review.record %}
+          <span data-icon="ei-trophy" data-size="s"></span>{{page.review.record}}
+        {% endif %}
+    </div>
+    {% endif %}
+
+    {% if page.review.players %}
+    <div>
+        {{page.review.players}}
+    </div>
+    {% endif %}
+
+    {% if page.review.opening %}
+    <div>
+        {{page.review.opening}}
+    </div>
+    {% endif %}
+
+    {% if page.review.price %}
+    <div>
+        {{page.review.price}}
+    </div>
+    {% endif %}
+
+  </div><!-- box__body -->
+
+</div><!-- box -->

@@ -1,0 +1,39 @@
+# Site settings
+title: Escape Game
+email: querleuantoine@gmail.com
+description: Aventures d'un couple passionné d'escape games
+baseurl: '' # the subpath of your site, e.g. /blog
+url: '' # the base hostname & protocol for your site
+# twitter_username: aspirethemes
+# github_username: aspirethemes
+
+# Build settings
+markdown: kramdown
+permalink: /:title/
+include:
+  - _pages
+exclude:
+  - Gemfile
+  - Gemfile.lock
+gems:
+  - jekyll-paginate
+  - jekyll/tagging
+
+# Pagination
+paginate: 12
+
+# Tags
+tag_page_layout: tag_page
+tag_page_dir: tag
+tag_permalink_style: pretty
+
+authors:
+  antoine:
+    name: Moilotou
+    display_name: Moilotou
+    bio: Moilotou, passionné d'escape games, à votre service.
+    gravatar: /images/moilotou.jpg
+    email: querleuantoine@gmail.com
+    web: http://rock.bzh
+    # twitter: aspirethemes
+    # github: aspirethemes
