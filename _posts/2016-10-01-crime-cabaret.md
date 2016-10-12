@@ -21,7 +21,7 @@ review:
 
 ---
 
-Hier nous nous sommes rendus dans un centre que nous n'avions encore jamais essayé, **Escape Hunt**. À peine arrivé, nous remarquons que l'ambiance est très feutrée dans ce centre, nous imaginons que nous serons plus un célèbre détective de la fin des années 1800 qu'un james bond ! Notre game master nous invite à nous asseoir puis nous commençons à discuter.
+Hier nous nous sommes rendus dans un centre que nous n'avions encore jamais essayé, **Escape Hunt**. À peine arrivé, nous remarquons que l'ambiance est très feutrée dans ce centre, nous imaginons que nous serons plus un célèbre détective de la fin des années 1800 qu'un James bond ! Notre game master nous invite à nous asseoir puis nous commençons à discuter.
 
 > "Aujourd'hui est une date spéciale. Vous savez certainement pourquoi ?"
 
