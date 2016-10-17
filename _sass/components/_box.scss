@@ -30,6 +30,10 @@
     line-height: $line-height__medium;
   }
 
+  .box--review &__title {
+    margin-bottom: 1em;
+  }
+
   &__body {
     @media #{$medium-up} {
       overflow: hidden;

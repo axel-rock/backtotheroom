@@ -503,6 +503,8 @@ a {
     margin: 0;
     font-weight: 300;
     line-height: 25px; }
+  .box--review .box__title {
+    margin-bottom: 1em; }
   @media only screen and (min-width: 40.063em) {
     .box__body {
       overflow: hidden; } }
