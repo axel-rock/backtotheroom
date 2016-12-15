@@ -1,9 +1,9 @@
 # Site settings
-title: Escape Game
-email: querleuantoine@gmail.com
+title: Back to the Room
+email: moilotou@backtotheroom.com
 description: Aventures d'un couple passionné d'escape games
-baseurl: '/escapegame' # the subpath of your site, e.g. /blog
-url: 'http://rock.bzh' # the base hostname & protocol for your site
+baseurl: '' # the subpath of your site, e.g. /blog
+url: 'http://backtotheroom.com' # the base hostname & protocol for your site
 # twitter_username: aspirethemes
 # github_username: aspirethemes
 
@@ -33,7 +33,7 @@ authors:
     display_name: Moilotou
     bio: Moilotou, passionné d'escape games, à votre service.
     gravatar: /images/moilotou.jpg
-    email: querleuantoine@gmail.com
-    web: http://rock.bzh/escapegame
+    email: moilotou@backtotheroom.com
+    web: http://backtotheroom.com
     # twitter: aspirethemes
     # github: aspirethemes
