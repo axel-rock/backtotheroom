@@ -23,12 +23,7 @@ layout: default
         <header class="post__header">
           <h2 class="post__title" itemprop="name headline">{{ page.title }}</h2>
           {% include date.html date=page.date %}
-          {% capture current_year %}{{ site.time | date: "%Y"}}{% endcapture %}
-          {% if year == current_year %}
-          <time class="post__date" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ day }}{{ sup }} {{ month }}</time>
-          {% else %}
-          <time class="post__date" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%d.%m.%y" }}</time>
-          {% endif %}
+          <time class="post__date" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ day }}{{ sup }} {{ month }} {{year}}</time>
         </header>
 
         <div class="post-content" itemprop="articleBody">

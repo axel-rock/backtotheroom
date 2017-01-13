@@ -11,17 +11,11 @@
         {% endif %}
       </div>
     </a>
-            
+
 
     <div class="post-card__meta">
       {% include date.html date=post.date %}
-      {% capture current_year %}{{ site.time | date: "%Y"}}{% endcapture %}
-      {% if year == current_year %}
-      <span class="post-card__meta__date">{{ day }}{{ sup }} {{ month }}</span>
-      {% else %}
-      <span class="post-card__meta__date">{{ post.date | date: "%d.%m.%y" }}</span>
-      {% endif %}
-      
+      <span class="post-card__meta__date">{{ day }}{{ sup }} {{ month }} {{ year }}</span>
     </div>
 
     <h2 class="post-card__title post-card__title--medium">
