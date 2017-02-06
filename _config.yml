@@ -1,5 +1,6 @@
 # Site settings
 title: Back to the Room
+title_long: Back to the Room - Blog de passionnés d'escape games
 # email: moilotou@backtotheroom.com
 description: Aventures d'un couple passionné d'escape games
 baseurl: '' # the subpath of your site, e.g. /blog
