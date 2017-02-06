@@ -11,7 +11,7 @@
 
     {% if page.review.website %}
     <div>
-      <a href="{{page.review.website}}" target="_blank">
+      <a href="{{page.review.website}}" title="{{page.review.website}}" target="_blank">
         <span data-icon="ei-link" data-size="s"></span>Site web
       </a>
     </div>
@@ -19,36 +19,30 @@
 
     {% if page.review.location %}
     <div>
-      <!-- <a href="http://www.twitter.com/{{ author.twitter }}" target="_blank"> -->
+      <a href="https://www.google.com/maps/search/{{page.review.location | cgi_escape}}" target="_blank">
         <span data-icon="ei-location" data-size="s"></span>{{page.review.location}}
-      <!-- </a> -->
-    </div>
-    {% endif %}
-
-    {% if page.review.time %}
-    <div>
-        <span data-icon="ei-clock" data-size="s"></span>{{page.review.time}}
-        {% if page.review.record %}
-          <span data-icon="ei-trophy" data-size="s"></span>{{page.review.record}}
-        {% endif %}
-    </div>
-    {% endif %}
-
-    {% if page.review.players %}
-    <div>
-        {{page.review.players}}
-    </div>
-    {% endif %}
-
-    {% if page.review.opening %}
-    <div>
-        {{page.review.opening}}
+      </a>
     </div>
     {% endif %}
 
     {% if page.review.price %}
     <div>
-        {{page.review.price}}
+        <span data-icon="ei-credit-card" data-size="s"></span>{{page.review.price}} ({{page.review.players}})
+    </div>
+    {% endif %}
+
+    {% if page.review.opening %}
+    <div>
+        <span data-icon="ei-clock" data-size="s"></span>{{page.review.opening}}
+    </div>
+    {% endif %}
+
+    {% if page.review.time %}
+    <div>
+        <span data-icon="ei-bell" data-size="s"></span>{{page.review.time}}
+        {% if page.review.record %}
+          <span data-icon="ei-trophy" data-size="s"></span>{{page.review.record}}
+        {% endif %}
     </div>
     {% endif %}
 

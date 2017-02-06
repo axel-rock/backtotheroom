@@ -1,6 +1,6 @@
 # Site settings
 title: Back to the Room
-email: moilotou@backtotheroom.com
+# email: moilotou@backtotheroom.com
 description: Aventures d'un couple passionné d'escape games
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'http://backtotheroom.com' # the base hostname & protocol for your site
@@ -33,7 +33,7 @@ authors:
     display_name: Moilotou
     bio: Moilotou, passionné d'escape games, à votre service.
     gravatar: /images/moilotou.jpg
-    email: moilotou@backtotheroom.com
+    # email: moilotou@backtotheroom.com
     web: http://backtotheroom.com
     # twitter: aspirethemes
     # github: aspirethemes
