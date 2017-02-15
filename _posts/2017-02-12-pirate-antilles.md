@@ -2,7 +2,7 @@
 
 layout: review
 title: Les Pirates des Antilles, 1727
-featured: false
+featured: true
 author: antoine
 tags: [test, paris]
 image: /images/posts/pirate-antilles.jpg
@@ -23,6 +23,8 @@ review:
 
 Souquez les artimuses !! Mais ça ne veut rien dire souquez les artimuses ?? Ah, je me disais aussi ...
 
+___
+
 > "Vous n’avez pas été suivis ?"
 
 Euh normalement non. Je ne suis pas un pro de la filature, mais je ne pense pas.
@@ -35,7 +37,7 @@ Alors on dira qu’on n’a pas été suivis.
 
 Nous avançons dans ce qui semble être un hôtel. La déco me plaît, clairement, mais j’ai du mal à imaginer un bateau pirate dans les Antilles en plein cœur de paris. L’idée me plaît, mais il me faudra un peu d’aide pour saisir l’intrigue dans sa totalité.
 
-> "En effet, nous sommes dans ce qui semble être un hôtel. Mais en passant une porte, vous serez transportés dans un lieu et une époque différente."
+> "En effet, cet endroit ressemble à un hôtel. Mais en passant cette porte, vous serez transportés dans un lieu et une époque différente."
 
 Ahhhhhh !! J’ai saisi. C’est astucieux cette couverture.
 
@@ -53,7 +55,7 @@ Si vous avez fait quelques escapes games , vous serez déroutés rapidement. Un 
 
 Parlons un peu des décors. Ce sera très court... C’est absolument parfait ! Cette salle est absolument phénoménale. C’est la salle la mieux décorée que j’ai pu voir jusqu’à maintenant. On est vraiment dans ce bateau du 18e siècle, c’est un magnifique voyage. Les énigmes qui en découlent sont bien ficelées. L’élément de gameplay dont je vous parlais au début influe énormément sur la partie énigme. Cet élément ajuste en quelque sorte la difficulté. La salle peut donc être réalisée par tout type d’équipe. Sur le site de Kairos, on peut voir que la salle est proposée pour un groupe d’enfant. C’est donc à la portée de chaque groupe.
 
-Je voudrais insister sur un dernier point, [le site internet de Kairos](https://kairos-escapegame.com/). Je le trouve vraiment bien fait pour commencer d’immersion dans l’aventure. Les vidéos qui sont associées à chaque mission sont très bien réalisées et mettent en scène les gérants de l’enseigne Kairos. Ce petit élément m’a vraiment plu.
+Je voudrais insister sur un dernier point : [le site internet de Kairos](https://kairos-escapegame.com/). Je le trouve vraiment bien fait pour commencer l’immersion dans l’aventure. Les vidéos associées à chaque mission sont très bien réalisées et mettent en scène les gérants de l’enseigne Kairos. Ce petit élément m’a vraiment plu.
 
 Je recommande vivement cette salle. Ne serait-ce que par curiosité à propos de l’élément dont je vous ai parlé plusieurs fois. Le décor ne peut que vous séduire et fait presque passer les énigmes en second plan, c’est dire. Kairos est une enseigne qui n’a que 2 mois, je pense qu’elle séduira énormément de monde. Alors, embarquez moussaillon et bon chance.
 

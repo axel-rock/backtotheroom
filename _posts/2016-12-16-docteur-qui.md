@@ -2,7 +2,7 @@
 
 layout: review
 title: Docteur Qui ?
-featured: false
+featured: true
 author: antoine
 tags: [test, paris]
 image: /images/posts/docteur-qui.gif
