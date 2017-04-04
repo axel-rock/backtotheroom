@@ -35,6 +35,10 @@
       &:hover {
         color: $color__type--hover;
       }
+
+	  img {
+		  max-height: 80px;
+	  }
     }
 
     @media #{$large-down} {

@@ -1308,6 +1308,8 @@ textarea {
       letter-spacing: 1px; }
       .sidebar__logo a:hover {
         color: #7E7E7E; }
+      .sidebar__logo a img {
+        max-height: 80px; }
     @media only screen and (max-width: 64em) {
       .sidebar__logo {
         margin-bottom: 0;
